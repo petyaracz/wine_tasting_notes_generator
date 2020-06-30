@@ -1,0 +1,12 @@
+name: winetaster
+title: winetaster
+username:
+account: petyaracz
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2408999
+bundleId: 3228799
+url: https://petyaracz.shinyapps.io/winetaster/
+when: 1591288277.20189
+asMultiple: FALSE
+asStatic: FALSE
